@@ -1,2 +1,1 @@
-# kivy01
-Teste de App usando o Kivy
+# Teste de App usando o Kivy (kivy01)
